@@ -1,2 +1,1 @@
-# getlessons
-Git lessons
+# Hello, mthr fckr!
